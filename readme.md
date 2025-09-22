@@ -41,4 +41,4 @@ It demonstrates:
    ```
 
 ## Demo Recording
-[BulkActions Create Delete Demo - Java SDK.mp4](./recording.mp4)
+[BulkActions Create Delete Demo - Java SDK.mp4](./BulkActions%20Create%20Delete%20Demo%20-%20Java%20SDK.mp4)
