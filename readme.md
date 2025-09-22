@@ -20,7 +20,7 @@ It demonstrates:
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/<your-org>/bulkactions-java-sdk-demo.git
+   git clone https://github.com/tissabre/bulkactions-go-sdk-demo.git
    cd bulkactions-java-sdk-demo
    ```
 
