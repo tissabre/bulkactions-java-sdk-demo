@@ -1,6 +1,6 @@
-# BulkActions + ScheduledActions Demo (Java SDK)
+# BulkActions + ScheduledActions Demo ([Java SDK](https://central.sonatype.com/artifact/com.azure.resourcemanager/azure-resourcemanager-computefleet))
 
-This repository contains an end-to-end demo that shows how to create, scale, and delete VMs using the **Azure Java SDK**.  
+This repository contains an end-to-end demo that shows how to create, scale, and delete VMs using the **[Azure Java SDK](https://central.sonatype.com/artifact/com.azure.resourcemanager/azure-resourcemanager-computefleet)**.  
 It demonstrates:  
 
 - **BulkActions API** for VM creation and scaling  
