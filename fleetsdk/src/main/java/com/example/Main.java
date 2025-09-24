@@ -163,8 +163,7 @@ public final class Main {
                                 .withResources(new Resources().withIds(resourceIds))
                                 .withForceDeletion(forceDelete)
                                 .withExecutionParameters(new ExecutionParameters()
-                                                .withRetryPolicy(new RetryPolicy().withRetryCount(1)
-                                                                .withRetryWindowInMinutes(25)))
+                                                .withRetryPolicy(new RetryPolicy().withRetryWindowInMinutes(15)))
                                 .withCorrelationid(UUID.randomUUID().toString());
         }
 
