@@ -39,3 +39,7 @@ It demonstrates:
    ```bash
    ./gradlew run
    ```
+
+## More Examples
+
+Take a look at the [SDK source repo](https://github.com/Azure/azure-sdk-for-java/tree/main/sdk/computefleet/azure-resourcemanager-computefleet) for more [code samples](https://github.com/Azure/azure-sdk-for-java/tree/main/sdk/computefleet/azure-resourcemanager-computefleet/src/samples/java/com/azure/resourcemanager/computefleet/generated)!
