@@ -20,7 +20,7 @@ It demonstrates:
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/tissabre/bulkactions-go-sdk-demo.git
+   git clone https://github.com/tissabre/bulkactions-java-sdk-demo.git
    cd bulkactions-java-sdk-demo
    ```
 
@@ -32,7 +32,7 @@ It demonstrates:
 3. Build and run the program (Maven)
    ```bash
    mvn clean install
-   mvn exec:java -Dexec.mainClass="com.example.BulkActionsDemo"
+   mvn exec:java -Dexec.mainClass="com.example.Main"
    ```
 
    or if you're using Gradle
